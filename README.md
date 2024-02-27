@@ -1,6 +1,12 @@
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Build Status](https://travis-ci.org/zovt/tea.svg?branch=master)](https://travis-ci.org/zovt/tea)
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x9290eCFf6E4bE9c600F226aDba2cA9333dE956eA'
+quorum: 1
 
 # The Tea Text Editor
 Tea aims to be an extensible, fast, modern text editor.
